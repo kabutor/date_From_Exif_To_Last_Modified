@@ -7,3 +7,7 @@ on the "Last Modified" value to the "taken picture date" so even if you take a p
 it will say that the file was modified yesterday.
 
 So you can have the dates on the files as the taken picture date (someone asked me to do this, I'm not this sick ;) )
+
+Compile with :
+
+$> C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /t:exe /out:fecha.exe fechac.cs 
